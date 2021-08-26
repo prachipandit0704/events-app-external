@@ -95,5 +95,7 @@ describe('POST /event', function () {
 });
 
 
-
+function sayHello(){
+    console.log("Hello there...");
+}
 
